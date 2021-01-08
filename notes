@@ -1,0 +1,7 @@
+# tensorflow not yet for python 3.9
+# need to create a virtualenv with python 3.8 or less, can be done easily with miniconda
+# use virtualenv previous_python, running 3.8.5
+conda activate previous_python
+
+# install all requirements with
+pip3 install -r requirements.txt
